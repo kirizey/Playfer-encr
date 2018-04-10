@@ -1,0 +1,18 @@
+c:\users\sveta\documents\visual studio 2015\Projects\PLAYFER_7LABA\PLAYFER_7LABA\bin\Debug\PLAYFER_7LABA.exe.config
+c:\users\sveta\documents\visual studio 2015\Projects\PLAYFER_7LABA\PLAYFER_7LABA\bin\Debug\PLAYFER_7LABA.exe
+c:\users\sveta\documents\visual studio 2015\Projects\PLAYFER_7LABA\PLAYFER_7LABA\bin\Debug\PLAYFER_7LABA.pdb
+c:\users\sveta\documents\visual studio 2015\Projects\PLAYFER_7LABA\PLAYFER_7LABA\obj\Debug\PLAYFER_7LABA.csprojResolveAssemblyReference.cache
+c:\users\sveta\documents\visual studio 2015\Projects\PLAYFER_7LABA\PLAYFER_7LABA\obj\Debug\PLAYFER_7LABA.exe
+c:\users\sveta\documents\visual studio 2015\Projects\PLAYFER_7LABA\PLAYFER_7LABA\obj\Debug\PLAYFER_7LABA.pdb
+C:\Users\Sveta\Desktop\Универ\5 семестр\защита информации\PLAYFER_7LABA\PLAYFER_7LABA\bin\Debug\PLAYFER_7LABA.exe.config
+C:\Users\Sveta\Desktop\Универ\5 семестр\защита информации\PLAYFER_7LABA\PLAYFER_7LABA\obj\Debug\PLAYFER_7LABA.exe
+C:\Users\Sveta\Desktop\Универ\5 семестр\защита информации\PLAYFER_7LABA\PLAYFER_7LABA\obj\Debug\PLAYFER_7LABA.pdb
+C:\Users\Sveta\Desktop\Универ\5 семестр\защита информации\PLAYFER_7LABA\PLAYFER_7LABA\bin\Debug\PLAYFER_7LABA.exe
+C:\Users\Sveta\Desktop\Универ\5 семестр\защита информации\PLAYFER_7LABA\PLAYFER_7LABA\bin\Debug\PLAYFER_7LABA.pdb
+C:\Users\Sveta\Desktop\Универ\5 семестр\защита информации\PLAYFER_7LABA\PLAYFER_7LABA\obj\Debug\PLAYFER_7LABA.csprojResolveAssemblyReference.cache
+D:\Plapher\PLAYFER_7LABA\PLAYFER_7LABA\bin\Debug\PLAYFER_7LABA.exe.config
+D:\Plapher\PLAYFER_7LABA\PLAYFER_7LABA\obj\Debug\PLAYFER_7LABA.exe
+D:\Plapher\PLAYFER_7LABA\PLAYFER_7LABA\obj\Debug\PLAYFER_7LABA.pdb
+D:\Plapher\PLAYFER_7LABA\PLAYFER_7LABA\bin\Debug\PLAYFER_7LABA.exe
+D:\Plapher\PLAYFER_7LABA\PLAYFER_7LABA\bin\Debug\PLAYFER_7LABA.pdb
+D:\Plapher\PLAYFER_7LABA\PLAYFER_7LABA\obj\Debug\PLAYFER_7LABA.csprojResolveAssemblyReference.cache
